@@ -3,6 +3,8 @@
 This is an application that separates audio files into stems using the Spleeter library. It's built with Python and
 Streamlit.
 
+![Screenshot of the application](Screenshot.png)
+
 ## Features
 
 - Select the number of stems (2, 4, or 5)
