@@ -39,15 +39,15 @@ This is an application that separates audio files into stems using the Spleeter 
 
     ```plaintext
     # AWS
-    AWS_ACCESS_KEY_ID=YOUR_AWS_ACCESS_KEY_ID
-    AWS_SECRET_ACCESS_KEY=YOUR_AWS_SECRET_ACCESS_KEY
-    AWS_REGION=us-east-1
+    AWS_ACCESS_KEY_ID=
+    AWS_SECRET_ACCESS_KEY=
+    AWS_REGION=
 
     # S3
-    STEM_SEP_S3_BUCKET=stem-sep-app
+    STEM_SEP_S3_BUCKET=
     ```
 
-   Replace `YOUR_AWS_ACCESS_KEY_ID` and `YOUR_AWS_SECRET_ACCESS_KEY` with your actual AWS credentials.
+   Replace `AWS CREDENTIALS` with your actual AWS credentials.
 
 5. **Run the Streamlit app**:
 
