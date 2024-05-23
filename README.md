@@ -16,7 +16,7 @@ This is an application that separates audio files into stems using the Spleeter 
 1. **Clone this repository**:
 
     ```bash
-    git clone https://github.com/your-username/Audio_Stem_Seperation.git
+    git clone https://github.com/bantoinese83/Audio_Stem_Seperation.git
     cd Audio_Stem_Seperation
     ```
 
